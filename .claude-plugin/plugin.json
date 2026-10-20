@@ -1,0 +1,9 @@
+{
+  "name": "research-eval",
+  "version": "1.0.0",
+  "description": "Evidence-grounded paper reviews calibrated to conference, workshop, and journal criteria.",
+  "author": {
+    "name": "Akhil Nampally"
+  },
+  "keywords": ["peer-review", "research", "papers", "academic-writing"]
+}
